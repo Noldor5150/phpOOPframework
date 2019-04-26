@@ -8,7 +8,7 @@ namespace App;
  * and open the template in the editor.
  */
 
-class App extends App\Abstracts\App {
+class App extends \App\Abstracts\App {
    
 
     public function __construct() {
